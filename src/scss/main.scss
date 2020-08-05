@@ -1,0 +1,25 @@
+// Sass variables
+@import "variables";
+
+// Import Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+// Animations
+@import "animations";
+
+// Typographies
+@import "typography";
+
+// Import Fontawesome
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+
+/**
+ * @author: Wilhelm Siso
+ */
+
+// Components files
+@import "components/_hello-world";
+
+// Partials files
+@import "partials/base";
